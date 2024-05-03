@@ -3,7 +3,6 @@
 #include <iostream>
 #include <string> 
 #include <cstring>
-#include <stack> 
 #include <limits>
 #include <regex>
 #include <fstream>
